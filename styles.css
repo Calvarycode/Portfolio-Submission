@@ -1,0 +1,8 @@
+body {background-color: cyan;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+img { border-radius: 200px;}
+.heading {text-align: center;}
+div {
+    cursor:crosshair;
+}
+
